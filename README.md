@@ -1,6 +1,5 @@
 # HelioTrack-Real-Time-Solar-Positioning-System
 
-# HelioTrack: Time-Based Solar Tracking System
 
 **Author:** Bhavana Poli  
 **Date:** October 2022  
@@ -46,7 +45,7 @@ This embedded system project utilizes the **AT89C51 microcontroller**, **servo m
 
 ## 🖥️ Simulation Snapshot
 
-![Proteus Simulation](./8bbf9f60-c890-444f-bee9-71b1d20c2ebb.png)
+![Proteus Simulation](./proteus_simulation.png)
 
 ---
 
